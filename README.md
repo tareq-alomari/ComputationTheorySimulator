@@ -13,6 +13,8 @@
 *(ملاحظة: نوصي بشدة بوضع لقطة شاشة لواجهة البرنامج هنا لجذب الانتباه)*
 ![صورة المحاكي هنا](https://via.placeholder.com/800x500.png?text=ضع+لقطة+شاشة+للبرنامج+هنا)
 
+![Image](https://github.com/user-attachments/assets/844aa184-31dc-416b-97e7-2340a8caabf7)
+![Image](https://github.com/user-attachments/assets/6eb6638c-31fd-40d5-8091-519c5e581a70)
 ---
 
 ### ✨ الميزات الرئيسية
