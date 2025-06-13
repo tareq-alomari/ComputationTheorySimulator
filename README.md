@@ -1,4 +1,5 @@
-# 🤖 محاكي نماذج الحوسبة النظرية (Computation Theory Simulator)
+# 🤖 محاكي نماذج الحوسبة النظرية 
+(Computation Theory Simulator)
 
 ![C#](https://img.shields.io/badge/Language-C%23-blueviolet)
 ![.NET Framework](https://img.shields.io/badge/Framework-.NET%20WinForms-blue)
